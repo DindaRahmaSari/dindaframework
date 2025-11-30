@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
-class Levelcontroller extends Controller
+class LevelController extends Controller
 {
     public function index()
     {
